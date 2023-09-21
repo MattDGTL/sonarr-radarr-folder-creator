@@ -2,7 +2,7 @@ import requests
 import os
 
 # Radarr API settings
-RADARR_API_URL = "http://your-radarr-url/api"
+RADARR_API_URL = "http://your-radarr-url/api/v3"
 RADARR_API_KEY = "your-radarr-api-key"
 
 # Function to make a GET request to Radarr API
